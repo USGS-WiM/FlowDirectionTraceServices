@@ -1,0 +1,17 @@
+{
+  "parentdirectory": "D:/WiM/Projects/StreamStats/data",
+  "workingdirectory": "D:/WiM/Projects/StreamStats/logs",
+  "maplayers": {
+    "fdr": {
+      "ID": 1001,
+      "Name": "fdr",
+      "Description": "Flow Direction Raster",
+      "isTiled": true,
+      "path": "tiled/NHDPlus_v2",
+      "DatasetType": "ESRI_RASTER",
+      "queryFeaturePath": "RPU.shp",
+      "queryField": "Path",
+      "UnitID": "sq-m"
+    }
+  }
+}
